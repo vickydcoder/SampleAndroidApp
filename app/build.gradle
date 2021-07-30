@@ -49,5 +49,5 @@ dependencies {
     androidTestImplementation 'androidx.test.ext:junit:1.1.2'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
     // Mishipay Web as a Service
-    implementation 'com.github.mishipay-ltd:Mishipay-Library:1.1.0'
+    implementation 'com.github.mishipay-ltd:mishipay-android-sdk:1.1.1'
 }

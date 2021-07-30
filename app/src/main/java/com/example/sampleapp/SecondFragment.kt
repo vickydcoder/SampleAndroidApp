@@ -9,7 +9,7 @@ import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import com.example.mishipaylibrary.config.WebAppConfig
+import mishipay.sdk.config.WebAppConfig
 import com.example.sampleapp.databinding.FragmentSecondBinding
 
 /**
